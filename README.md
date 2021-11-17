@@ -32,9 +32,7 @@ My pronouns are He/His.
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />][Here]
 
-
 <br />
----
 
 <details>
   <summary>GitHub Stats</summary>
