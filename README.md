@@ -2,7 +2,7 @@
 
 ## I'm a brazilian web developer and a student in mathematics.
 
-I'm a 22 years old programmer and student in Universidade de São Paulo, you can find all my projects [Here].
+I'm 22 years old, studying full-stack web development in Driven and mathematics in Universidade de São Paulo, you can find all my projects [Here].
 
 My pronouns are He/His.
 
