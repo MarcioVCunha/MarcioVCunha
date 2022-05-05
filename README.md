@@ -11,10 +11,7 @@ My pronouns are He/His.
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
-<br />
-
 ### Languages and Tools:
-
 [<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -29,20 +26,14 @@ My pronouns are He/His.
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][Here]
 
-<br />
-
 <details>
   <summary>GitHub Stats</summary>
-
   <img alt="Marcio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarcioVCunha&show_icons=true&hide_border=true" />
-
 </details>
 
 <details>
   <summary>Most Used Languages</summary>
-
-<img alt="Marcio's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioVCunha" />
-
+  <img alt="Marcio's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioVCunha" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/marcio-cunha-1b05a12b/
