@@ -1,6 +1,6 @@
 ### Hello World, I'm Marcio  👋
 
-## I'm a brazilian web developer and a student in mathematics.
+## I'm a brazilian web developer.
 
 I'm 22 years old, full-stack web developer, working as tutor at Driven Education and studying computer science, you can find all my projects [Here].
 
