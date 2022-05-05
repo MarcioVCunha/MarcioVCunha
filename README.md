@@ -2,10 +2,9 @@
 
 ## I'm a brazilian web developer and a student in mathematics.
 
-I'm 22 years old, studying full-stack web development in Driven and mathematics in Universidade de São Paulo, you can find all my projects [Here].
+I'm 22 years old, full-stack web developer, working as tutor at Driven Education and studying computer science, you can find all my projects [Here].
 
 My pronouns are He/His.
-
 
 ### You can find me here:
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
